@@ -73,7 +73,7 @@ ul {
 /* ############# HEADER SECTION #############  */
 
 header {
-    background: url("/img/header.svg") no-repeat;
+    background: url("img/header.svg") no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
