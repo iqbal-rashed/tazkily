@@ -73,7 +73,7 @@ ul {
 /* ############# HEADER SECTION #############  */
 
 header {
-    background: url("/tazkily.github.io/img/header.svg") no-repeat;
+    background: url("/tazkily/img/header.svg") no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -136,14 +136,14 @@ svg {
 
 @media (max-width: 767px) {
     header {
-        background: url("/tazkily.github.io/img/mobile-header.svg") no-repeat;
+        background: url("/tazkily/img/mobile-header.svg") no-repeat;
         background-size: cover;
     }
     .nav-bar ul {
         display: none;
     }
     .nav-bar {
-        background-image: url("/tazkily.github.io/img/List.svg");
+        background-image: url("/tazkily/img/List.svg");
         background-size: contain;
         background-repeat: no-repeat;
         width: 32px;
@@ -527,7 +527,7 @@ svg {
 /* ############# SECTION THREE #############  */
 
 .section-three {
-    background-image: url("/tazkily.github.io/img/section-three.svg");
+    background-image: url("/tazkily/img/section-three.svg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -639,7 +639,7 @@ svg {
 }
 
 .pricing-card .card-top {
-    background: var(--primary-color) url("/tazkily.github.io/img/pricing-bg.svg");
+    background: var(--primary-color) url("/tazkily/img/pricing-bg.svg");
     background-size: cover;
     padding: 32px 40px;
     padding-bottom: 24px;
@@ -713,7 +713,7 @@ svg {
 }
 
 .is-recommended {
-    background: var(--primary-color) url("/tazkily.github.io/img/pricing-bg.svg");
+    background: var(--primary-color) url("/tazkily/img/pricing-bg.svg");
     position: relative;
     background-size: cover;
 }
@@ -725,8 +725,8 @@ svg {
     height: 16px;
     display: inline-block;
     background: var(--primary-color);
-    -webkit-mask: url("/tazkily.github.io/img/check.svg") no-repeat center;
-    mask: url("/tazkily.github.io/img/check.svg") no-repeat center;
+    -webkit-mask: url("/tazkily/img/check.svg") no-repeat center;
+    mask: url("/tazkily/img/check.svg") no-repeat center;
 }
 
 .is-recommended .recommended-text {
@@ -766,7 +766,7 @@ svg {
         text-align: center;
     }
     .section-three {
-        background-image: url("/tazkily.github.io/img/mobile-section-three.svg");
+        background-image: url("/tazkily/img/mobile-section-three.svg");
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
@@ -910,8 +910,8 @@ svg {
     height: 26px;
     display: inline-block;
     background: var(--primary-color);
-    -webkit-mask: url("/tazkily.github.io/img/arrow.svg") no-repeat center;
-    mask: url("/tazkily.github.io/img/arrow.svg") no-repeat center;
+    -webkit-mask: url("/tazkily/img/arrow.svg") no-repeat center;
+    mask: url("/tazkily/img/arrow.svg") no-repeat center;
     cursor: pointer;
 }
 
@@ -1028,7 +1028,7 @@ svg {
 /* ############# SECTION SIX #############  */
 
 .section-six {
-    background-image: url("/tazkily.github.io/img/section-six.svg");
+    background-image: url("/tazkily/img/section-six.svg");
     background-size: cover;
 }
 
@@ -1128,8 +1128,8 @@ svg {
     height: 26px;
     display: inline-block;
     background: var(--primary-color);
-    -webkit-mask: url("/tazkily.github.io/img/arrow.svg") no-repeat center;
-    mask: url("/tazkily.github.io/img/arrow.svg") no-repeat center;
+    -webkit-mask: url("/tazkily/img/arrow.svg") no-repeat center;
+    mask: url("/tazkily/img/arrow.svg") no-repeat center;
     margin-top: 26px;
     cursor: pointer;
 }
@@ -1142,7 +1142,7 @@ svg {
 
 @media (max-width: 767px) {
     .section-six {
-        background-image: url("/tazkily.github.io/img/mobile-section-six.svg");
+        background-image: url("/tazkily/img/mobile-section-six.svg");
     }
 
     .section-six .container {
